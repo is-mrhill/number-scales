@@ -1,0 +1,21 @@
+{
+  "name": "testbed",
+  "version": "1.0.0",
+  "description": "Utitlity methods to translate names and values of various naming schemes for powers of 10",
+  "main": "export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/is-mrhill/number-scales.git"
+  },
+  "keywords": [
+    "numeric",
+    "scales",
+    "symbols",
+    "metric"
+  ],
+  "author": "Matthew Hill <matthew.hill@insidesales.com>",
+  "license": "MIT"
+}
